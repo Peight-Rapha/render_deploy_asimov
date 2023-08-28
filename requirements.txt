@@ -5,4 +5,3 @@ dash-bootstrap-templates==1.0.8
 dash-core-components==2.0.0
 dash-html-components==2.0.0
 dash-table==5.0.0
-pandas @ file:///C:/ci_311_rebuilds/pandas_1679004481142/work
